@@ -1,4 +1,4 @@
 # New Project 
 
-This project was created from loacal system.
-Created by Raj Raghuvanshi
+This project was created from local system.
+Created by Raj Raghuvanshi.
